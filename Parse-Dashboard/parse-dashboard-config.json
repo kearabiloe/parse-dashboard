@@ -1,12 +1,10 @@
 {
   "apps": [{
-    "serverURL": "http://localhost:1337/parse",
-    "appId": "hello",
-    "masterKey": "world",
-    "appName": "",
+    "appName": "Borracho Properties",
     "iconName": "",
     "primaryBackgroundColor": "",
-    "secondaryBackgroundColor": ""
+    "secondaryBackgroundColor": "",
+    "supportedPushLocales": ["en", "en-za"]
   }],
   "iconsFolder": "icons"
 }
