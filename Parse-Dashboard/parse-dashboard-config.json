@@ -1,7 +1,5 @@
 {
   "apps": [{
-    "appName": "Borracho Properties",
-    "iconName": "",
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": "",
     "supportedPushLocales": ["en", "en-za"]
